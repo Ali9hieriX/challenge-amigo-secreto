@@ -1,2 +1,2 @@
-# challenge-amigo-secreto
+# CHALLENGE AMIGO SECRETO
 Practicando Lógica de Programación: Challenge Amigo secreto
